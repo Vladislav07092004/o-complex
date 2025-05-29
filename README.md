@@ -41,10 +41,10 @@
   > cd o-komplex
 - > Постройте Docker-образ
   > ```bash
-  > docker build -t o-komplex .
+  > docker build -t o-сomplex .
 - > Запустите контейнер
   > ```bash
-  > docker run -p 5000:5000 o-komplex
+  > docker run -p 5000:5000 o-сomplex
 - > Откройте в браузере http://localhost:5000
 
 ## Пример использования
